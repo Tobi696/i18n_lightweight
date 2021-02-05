@@ -1,8 +1,7 @@
 name: i18n_lightweight
 description: A new Flutter package project.
 version: 0.0.1
-author:
-homepage:
+repository: https://github.com/Tobi696/i18n_lightweight
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
@@ -13,7 +12,7 @@ dependencies:
     sdk: flutter
   flutter_localizations:
     sdk: flutter
-  yaml:
+  yaml: ^2.2.1
 
 dev_dependencies:
   flutter_test:
